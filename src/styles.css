@@ -93,9 +93,7 @@ svg {
 }
 
 .container {
-  --max-with: 80rem;
-  --padding: 10rem;
-  width: min(var(--max-with), 100% - var(--padding) * 2);
+  width: min(10rem, calc(100% - 80rem * 2));
   margin-inline: auto;
 }
 
