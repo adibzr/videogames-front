@@ -10,7 +10,7 @@ import axios from "axios";
 
 dotenv.config();
 
-axios.defaults.baseURL = process.env.REACT_APP_BASE_URL;
+axios.defaults.baseURL = process.env.REACT_APP_BASE_URL || 3000;
 ReactDOM.render(
   <Provider store={store}>
     <BrowserRouter>
