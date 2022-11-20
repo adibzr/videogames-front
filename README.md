@@ -1,6 +1,9 @@
 # Individual Project - Henry Videogames
 
-##Instruction to run local
+## deployed proyect
+https://videogames-adib-raed.up.railway.app/
+
+## Instruction to run local
 
 Clone front (https://github.com/adibzr/videogames-front) and back (https://github.com/adibzr/videogames-back) repository
 project split into front and back for deployment
