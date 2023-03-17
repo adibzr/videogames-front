@@ -33,13 +33,6 @@ API_KEY=
 - in __API_KEY__ copy rawg api key
 
 
-Create a file called '.env' in videogames-front root directory
-and copy the following
-```env
-REACT_APP_BASE_URL=
-```
-- __Assign a port__ (default 3000)
-
 
 run front with command; run back with command:
 ```
