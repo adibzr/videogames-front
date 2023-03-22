@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57c27d39.chunk.css",
+    "main.js": "/static/js/main.fa794fc2.chunk.js",
+    "main.js.map": "/static/js/main.fa794fc2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0dfc1197.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0dfc1197.js.map",
+    "static/js/2.82dbe488.chunk.js": "/static/js/2.82dbe488.chunk.js",
+    "static/js/2.82dbe488.chunk.js.map": "/static/js/2.82dbe488.chunk.js.map",
+    "static/js/3.4629722e.chunk.js": "/static/js/3.4629722e.chunk.js",
+    "static/js/3.4629722e.chunk.js.map": "/static/js/3.4629722e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.57c27d39.chunk.css.map": "/static/css/main.57c27d39.chunk.css.map",
+    "static/js/2.82dbe488.chunk.js.LICENSE.txt": "/static/js/2.82dbe488.chunk.js.LICENSE.txt",
+    "static/media/Error.04fd3d1b.gif": "/static/media/Error.04fd3d1b.gif",
+    "static/media/default_image.1620a242.jpg": "/static/media/default_image.1620a242.jpg",
+    "static/media/load-loading.81df87c1.gif": "/static/media/load-loading.81df87c1.gif",
+    "static/media/magnifying-glass.48320050.png": "/static/media/magnifying-glass.48320050.png",
+    "static/media/zed-video.751db469.mp4": "/static/media/zed-video.751db469.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dfc1197.js",
+    "static/js/2.82dbe488.chunk.js",
+    "static/css/main.57c27d39.chunk.css",
+    "static/js/main.fa794fc2.chunk.js"
+  ]
+}
