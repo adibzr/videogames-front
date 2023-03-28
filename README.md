@@ -1,7 +1,7 @@
 # Individual Project - Henry Videogames
 
 ## deployed proyect
-https://videogames-adib-raed.up.railway.app/
+https://videogame-static-site.onrender.com/
 
 ## Instruction to run local
 
